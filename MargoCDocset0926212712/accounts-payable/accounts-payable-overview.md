@@ -37,7 +37,7 @@ Before you can set up Accounts payable, you must complete the following setup:
     -   If you plan to run exchange rate adjustments, set up currency codes on the Currencies page, set up exchange rate types on the Exchange rate types page, and set up currency exchange rates on the Currency exchange rates page.
 -   In Cash and bank management, set up bank accounts to use with methods of payment.
 
-[Setup pages for Accounts payable]( "Collapse")
+Setup pages for Accounts payable
 -----------------------------------------------
 
 Use the following pages to set up the basic functionality of Accounts payable for each legal entity. The pages are listed in the recommended order of setup. To make the setup process easier, you can create templates from the first records that you create. In a template, values are typically entered in many fields to reflect the features that the organization wants to implement for a particular type of vendor.
@@ -49,16 +49,16 @@ Use the following pages to set up the basic functionality of Accounts payable fo
 6.  On the Form setup page, define the format of various documents that are related to vendors, and that the organization uses to keep track of receipts from vendors and enter reasons for the flow of payments to vendors.
 7.  On the Vendors page, create and maintain vendor accounts, and also the tax authorities that your organization reports sales taxes to.
 
-[Optional setup pages for Accounts payable]( "Collapse")
+Optional setup pages for Accounts payable
 --------------------------------------------------------
 
 In addition to the basic functionality, Accounts payable has other functionality that you can set up.
 
 The additional setup pages are organized by functionality.
-**[Policies]( "Collapse")**
+**Policies
 -   On the Vendor invoice policy page, set up vendor invoice policies.
 
-**[Invoice matching]( "Collapse")**
+**Invoice matching
 
 -   On the Invoice totals tolerances page, set up tolerances for invoice totals.
 -   On the Matching policy page, set up two-way and three-way matching policies.
@@ -71,35 +71,35 @@ The additional setup pages are organized by functionality.
 
 -   On the Accounts payable workflows page, set up workflow configurations for journal approvals and purchase requisitions.
 
-**[Reasons]( "Collapse")**
+**Reasons
 
 -   On the Vendor reasons page, set up reason codes.
 
-**[Charges]( "Collapse")**
+**Charges**
 
 -   On the Charges code page, set up codes for the charges that are used in purchase orders.
 -   On the Vendor charges group page, create and maintain charges groups for vendors.
 -   On the Item charge groups page, create and maintain charges groups for items.
 -   On the Auto charges page, define the charges that are automatically assigned to orders.
 
-**[Supplementary items]( "Collapse")**
+**Supplementary items**
 
 -   On the Supplementary item groups - Vendor page, create and maintain supplementary item groups for vendors.
 -   On the Supplementary item groups - Inventory page, create and maintain supplementary item groups for items.
 
-**[Distribution]( "Collapse")**
+**Distribution**
 
 -   On the Terms of delivery page, create and maintain the conditions for an item's transfer from seller to buyer.
 -   On the Modes of delivery page, create and maintain the methods of transport that are used when an order is delivered from the seller to the buyer.
 -   On the Destination codes page, create and maintain identifiers and descriptions for delivery destinations.
 
-**[Forms]( "Collapse")**
+**Forms**
 
 -   On the Form notes page, create the standard text that appears on various pages.
 -   On the Form sorting parameters page, set up the sorting order for requisitions, receipt lists, packing slips, and invoices.
 -   On the Print management setup page, set up print management information for originals and copies of pages.
 
-**[Payments]( "Collapse")**
+**Payments**
 
 -   On the Cash discounts page, set up and manage the terms for obtaining cash discounts. The cash discount codes are linked to vendors and are applied to purchase orders.
 -   On the Payment schedules page, set up the payment schedules that are used to manage installment payments to vendors.
@@ -107,19 +107,19 @@ The additional setup pages are organized by functionality.
 -   On the Payment fee page, create and maintain the payment fees that are associated with vendors.
 -   On the Payment instruction page, create and maintain payment instructions.
 
-**[Statistics]( "Collapse")**
+**Statistics**
 
 -   On the Aging period definitions page, set up user-defined intervals that are used to analyze the maturity distribution of vendor accounts.
 -   On the Line of business page, create the line of business (LOB) codes that are assigned to vendors.
 
-**[Tax 1099]( "Collapse")**
+**Tax 1099**
 
 -   On the **1099 fields** page, verify and update the minimum amounts that must be reported to the Internal Revenue Service (IRS), based on the latest IRS requirements.
 
-**[Optional setup]( "Collapse") for other modules**
+**Optional setup**
 ---------------------------------------------------
 
-**[Organization administration]( "Collapse")**
+**Organization administration**
 
 -   On the Number sequences page, set up number sequence groups for invoice numbers.
 -   On the following pages, set up address information:
@@ -127,7 +127,7 @@ The additional setup pages are organized by functionality.
     -   NAF codes
     -   Import ZIP/postal codes
 
-**[General ledger]( "Collapse")**
+**General ledger**
 
 -   On the Financial dimensions page, set up financial dimensions.
 -   On the following pages, set up tax information:
@@ -140,7 +140,7 @@ The additional setup pages are organized by functionality.
     -   Sales tax authorities
     -   Sales tax settlement periods
 
-**[Cash and bank management]( "Collapse")**
+**Cash and bank management**
 
 -   On the Payment purpose codes page, set up the Central Bank purpose code.
 
